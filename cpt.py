@@ -1,4 +1,4 @@
-from vectorbtpro import *
+import vectorbt as vbt
 import pandas as pd
 import scipy.stats as st
 import statsmodels.tsa.stattools as ts  
